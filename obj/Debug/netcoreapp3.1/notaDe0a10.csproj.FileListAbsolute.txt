@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Aula_EstruturasDeRepetição\Estruturas\bin\Debug\netcoreapp3.1\notaDe0a10.exe
+C:\Users\dev\Desktop\Aula_EstruturasDeRepetição\Estruturas\bin\Debug\netcoreapp3.1\notaDe0a10.deps.json
+C:\Users\dev\Desktop\Aula_EstruturasDeRepetição\Estruturas\bin\Debug\netcoreapp3.1\notaDe0a10.runtimeconfig.json
+C:\Users\dev\Desktop\Aula_EstruturasDeRepetição\Estruturas\bin\Debug\netcoreapp3.1\notaDe0a10.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Aula_EstruturasDeRepetição\Estruturas\bin\Debug\netcoreapp3.1\notaDe0a10.dll
+C:\Users\dev\Desktop\Aula_EstruturasDeRepetição\Estruturas\bin\Debug\netcoreapp3.1\notaDe0a10.pdb
+C:\Users\dev\Desktop\Aula_EstruturasDeRepetição\Estruturas\obj\Debug\netcoreapp3.1\notaDe0a10.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Aula_EstruturasDeRepetição\Estruturas\obj\Debug\netcoreapp3.1\notaDe0a10.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Aula_EstruturasDeRepetição\Estruturas\obj\Debug\netcoreapp3.1\notaDe0a10.AssemblyInfo.cs
+C:\Users\dev\Desktop\Aula_EstruturasDeRepetição\Estruturas\obj\Debug\netcoreapp3.1\notaDe0a10.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Aula_EstruturasDeRepetição\Estruturas\obj\Debug\netcoreapp3.1\notaDe0a10.dll
+C:\Users\dev\Desktop\Aula_EstruturasDeRepetição\Estruturas\obj\Debug\netcoreapp3.1\notaDe0a10.pdb
+C:\Users\dev\Desktop\Aula_EstruturasDeRepetição\Estruturas\obj\Debug\netcoreapp3.1\notaDe0a10.genruntimeconfig.cache
